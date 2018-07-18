@@ -1,0 +1,5 @@
+---
+applications:
+- name:    apiai-example-v2
+  host:    apiai-example-v2
+  memory:  256M
